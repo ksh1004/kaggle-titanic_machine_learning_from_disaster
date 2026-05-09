@@ -1,6 +1,6 @@
 # Titanic — Machine Learning from Disaster
 
-Kaggle 타이타닉 생존 예측 대회 전체 분석 파이프라인.
+Kaggle 타이타닉 생존 예측 대회
 
 > 대회 링크: https://www.kaggle.com/competitions/titanic
 
